@@ -1,1 +1,1 @@
-# admin_page
+This is the final project of the Intermediate HTML and CSS course on TOP. This page won't be very responsive and polished, but it will give me a lot of practice applying what I learned.
