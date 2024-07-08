@@ -52,6 +52,7 @@
 .projects {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    gap: 50px;
 }
 
 .right_bar {
@@ -138,4 +139,16 @@ background-color: lightblue;
 
 .user {
     display: flex;
+}
+
+.announce {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.trend {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
 }
