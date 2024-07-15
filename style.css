@@ -45,7 +45,7 @@
 .content {
     grid-column: 2 / 3;
     grid-row: 3 / 4;
-    background-color: green;
+    background-color: teal;
     padding: 20px;
 }
 
