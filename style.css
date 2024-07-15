@@ -24,7 +24,7 @@
 .nav1 {
     grid-column: 2 / 4;
     grid-row: 1 / 2;
-    background-color: aquamarine;
+    background-color: orange;
     display: flex;
     align-items: center;
     gap: 30px;
